@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" source-info-name="Magic button (EUW1Z2XAW16VP7)" xsi:noNamespaceSchemaLocation="http://epgs.vimn.com/xsd/ViacomXmlTv.xsd">
+  <channel id="MTV 00s">
+    <display-name lang="en">MTV 00s</display-name>
+  </channel>
+  <programme is_live="false" start="20240510050000 +0200" air_time_start="20240510050000 +0200" air_time_end="20240510100000 +0200" stop="20240510100045 +0200" start_utc="20240510030000 +0000" stop_utc="20240510080045 +0000" air_time_start_utc="20240510030000 +0000" air_time_end_utc="20240510080000 +0000" channel="MTV 00s">
+    <title lang="en">Non-Stop Y2Ks!</title>
+    <sub-title lang="en"></sub-title>
+    <original-title>Non-Stop Y2Ks!</original-title>
+    <original-episode-title />
+    <desc_short lang="en">The 00s gave us some iconic tracks and we're going to play some of them for you non-stop!</desc_short>
+    <keywords />
+    <dvb_event_id>17917329646668</dvb_event_id>
+    <dvbsi_genre level1="0x6" level2="0x1" />
+    <ott_mobile>true</ott_mobile>
+    <ott_internet>true</ott_internet>
+    <tve_mobile>true</tve_mobile>
+    <tve_internet>true</tve_internet>
+    <vod_catchup>false</vod_catchup>
+    <start_over>true</start_over>
+    <npvr>false</npvr>
+    <production_year></production_year>
+    <credits />
+    <category>Music - Rock &amp; Pop</category>
+    <length units="seconds">18000</length>
+    <production-country />
+    <audio_list />
+    <identifier>15360040034527</identifier>
+    <video>
+      <aspect>4:3</aspect>
+      <quality>SD</quality>
+    </video>
+    <subtitles />
+    <audio_described>false</audio_described>
+    <invision_signing>false</invision_signing>
+  </programme>
+  <programme is_live="false" start="20240510100045 +0200" air_time_start="20240510100000 +0200" air_time_end="20240510150000 +0200" stop="20240510150040 +0200" start_utc="20240510080045 +0000" stop_utc="20240510130040 +0000" air_time_start_utc="20240510080000 +0000" air_time_end_utc="20240510130000 +0000" channel="MTV 00s">
+    <title lang="en">Hits On Shuffle!</title>
+    <sub-title lang="en"></sub-title>
+    <original-title>Hits On Shuffle!</original-title>
+    <original-episode-title />
+    <desc_short lang="en">MTV has set itself to shuffle with the hottest and most-loved hits from some of your favourite artists! There may be a few surprises along the way!</desc_short>
+    <keywords />
+    <dvb_event_id>17917329706668</dvb_event_id>
+    <dvbsi_genre level1="0x6" level2="0x1" />
+    <ott_mobile>true</ott_mobile>
+    <ott_internet>true</ott_internet>
+    <tve_mobile>true</tve_mobile>
+    <tve_internet>true</tve_internet>
+    <vod_catchup>false</vod_catchup>
+    <start_over>true</start_over>
+    <npvr>false</npvr>
+    <production_year></production_year>
+    <credits />
+    <category>Music - Rock &amp; Pop</category>
+    <length units="seconds">18000</length>
+    <production-country />
+    <audio_list />
+    <identifier>15360057635527</identifier>
+    <video>
+      <aspect>4:3</aspect>
+      <quality>SD</quality>
+    </video>
+    <subtitles />
+    <audio_described>false</audio_described>
+    <invision_signing>false</invision_signing>
+  </programme>
+  <programme is_live="false" start="20240510150040 +0200" air_time_start="20240510150000 +0200" air_time_end="20240510160000 +0200" stop="20240510155944 +0200" start_utc="20240510130040 +0000" stop_utc="20240510135944 +0000" air_time_start_utc="20240510130000 +0000" air_time_end_utc="20240510140000 +0000" channel="MTV 00s">
+    <title lang="en">Euro Dance Hits!</title>
+    <sub-title lang="en"></sub-title>
+    <original-title>Euro Dance Hits!</original-title>
+    <original-episode-title />
+    <desc_short lang="en">Get ready to party as we bring you a healthy dose of the biggest and best Euro Dance hits!</desc_short>
+    <keywords />
+    <dvb_event_id>17917408448668</dvb_event_id>
+    <dvbsi_genre level1="0x6" level2="0x1" />
+    <ott_mobile>true</ott_mobile>
+    <ott_internet>true</ott_internet>
+    <tve_mobile>true</tve_mobile>
+    <tve_internet>true</tve_internet>
+    <vod_catchup>false</vod_catchup>
+    <start_over>true</start_over>
+    <npvr>false</npvr>
+    <production_year>0</production_year>
+    <credits />
+    <category>Music - Rock &amp; Pop</category>
+    <length units="seconds">3600</length>
+    <production-country />
+    <audio_list />
+    <identifier>13143732776527</identifier>
+    <video>
+      <aspect>4:3</aspect>
+      <quality>SD</quality>
+    </video>
+    <subtitles />
+    <audio_described>false</audio_described>
+    <invision_signing>false</invision_signing>
+  </programme>
+  <programme is_live="false" start="20240510155944 +0200" air_time_start="20240510160000 +0200" air_time_end="20240510210000 +0200" stop="20240510210043 +0200" start_utc="20240510135944 +0000" stop_utc="20240510190043 +0000" air_time_start_utc="20240510140000 +0000" air_time_end_utc="20240510190000 +0000" channel="MTV 00s">
+    <title lang="en">Non-Stop Y2Ks!</title>
+    <sub-title lang="en"></sub-title>
+    <original-title>Non-Stop Y2Ks!</original-title>
+    <original-episode-title />
+    <desc_short lang="en">The 00s gave us some iconic tracks and we're going to play some of them for you non-stop!</desc_short>
+    <keywords />
+    <dvb_event_id>17917329867668</dvb_event_id>
+    <dvbsi_genre level1="0x6" level2="0x1" />
+    <ott_mobile>true</ott_mobile>
+    <ott_internet>true</ott_internet>
+    <tve_mobile>true</tve_mobile>
+    <tve_internet>true</tve_internet>
+    <vod_catchup>false</vod_catchup>
+    <start_over>true</start_over>
+    <npvr>false</npvr>
+    <production_year></production_year>
+    <credits />
+    <category>Music - Rock &amp; Pop</category>
+    <length units="seconds">18000</length>
+    <production-country />
+    <audio_list />
+    <identifier>15360040034527</identifier>
+    <video>
+      <aspect>4:3</aspect>
+      <quality>SD</quality>
+    </video>
+    <subtitles />
+    <audio_described>false</audio_described>
+    <invision_signing>false</invision_signing>
+  </programme>
+  <programme is_live="false" start="20240510210043 +0200" air_time_start="20240510210000 +0200" air_time_end="20240510213500 +0200" stop="20240510213432 +0200" start_utc="20240510190043 +0000" stop_utc="20240510193432 +0000" air_time_start_utc="20240510190000 +0000" air_time_end_utc="20240510193500 +0000" channel="MTV 00s">
+    <title lang="en">MTV Dancefloor Chart: 2003</title>
+    <sub-title lang="en"></sub-title>
+    <original-title>MTV Dancefloor Chart: 2003</original-title>
+    <original-episode-title />
+    <desc_short lang="en">Tune in as we hit rewind to 2003 and bring you some of the hottest hits from the MTV dancefloor chart!</desc_short>
+    <keywords />
+    <dvb_event_id>17917406096668</dvb_event_id>
+    <dvbsi_genre level1="0x6" level2="0x1" />
+    <ott_mobile>true</ott_mobile>
+    <ott_internet>true</ott_internet>
+    <tve_mobile>true</tve_mobile>
+    <tve_internet>true</tve_internet>
+    <vod_catchup>false</vod_catchup>
+    <start_over>true</start_over>
+    <npvr>false</npvr>
+    <production_year></production_year>
+    <credits />
+    <category>Music - Rock &amp; Pop</category>
+    <length units="seconds">2100</length>
+    <production-country />
+    <audio_list />
+    <identifier>15741372285527</identifier>
+    <video>
+      <aspect>4:3</aspect>
+      <quality>SD</quality>
+    </video>
+    <subtitles />
+    <audio_described>false</audio_described>
+    <invision_signing>false</invision_signing>
+  </programme>
+  <programme is_live="false" start="20240510213432 +0200" air_time_start="20240510213500 +0200" air_time_end="20240510230000 +0200" stop="20240510225914 +0200" start_utc="20240510193432 +0000" stop_utc="20240510205914 +0000" air_time_start_utc="20240510193500 +0000" air_time_end_utc="20240510210000 +0000" channel="MTV 00s">
+    <title lang="en">Hits Don't Lie</title>
+    <sub-title lang="en"></sub-title>
+    <original-title>Hits Don't Lie </original-title>
+    <original-episode-title />
+    <desc_short lang="en">Hits don't lie! Get ready for the biggest and best worldwide smashes from past to present!</desc_short>
+    <keywords />
+    <dvb_event_id>17917330172668</dvb_event_id>
+    <dvbsi_genre level1="0x6" level2="0x1" />
+    <ott_mobile>true</ott_mobile>
+    <ott_internet>true</ott_internet>
+    <tve_mobile>true</tve_mobile>
+    <tve_internet>true</tve_internet>
+    <vod_catchup>false</vod_catchup>
+    <start_over>true</start_over>
+    <npvr>false</npvr>
+    <production_year></production_year>
+    <credits />
+    <category>Music - Rock &amp; Pop</category>
+    <length units="seconds">5100</length>
+    <production-country />
+    <audio_list />
+    <identifier>2292902015527</identifier>
+    <video>
+      <aspect>4:3</aspect>
+      <quality>SD</quality>
+    </video>
+    <subtitles />
+    <audio_described>false</audio_described>
+    <invision_signing>false</invision_signing>
+  </programme>
+  <programme is_live="false" start="20240510225914 +0200" air_time_start="20240510230000 +0200" air_time_end="20240511014000 +0200" stop="20240511014146 +0200" start_utc="20240510205914 +0000" stop_utc="20240510234146 +0000" air_time_start_utc="20240510210000 +0000" air_time_end_utc="20240510234000 +0000" channel="MTV 00s">
+    <title lang="en">Top 40 Hip-Hop &amp; R&amp;B Jams!</title>
+    <sub-title lang="en"></sub-title>
+    <original-title>Top 40 Hip-Hop &amp; R&amp;B Jams!</original-title>
+    <original-episode-title />
+    <desc_short lang="en">Check out 40 of the biggest and hottest Hip-Hop and R&amp;B jams from the 00s!</desc_short>
+    <keywords />
+    <dvb_event_id>17917390812668</dvb_event_id>
+    <dvbsi_genre level1="0x6" level2="0x1" />
+    <ott_mobile>true</ott_mobile>
+    <ott_internet>true</ott_internet>
+    <tve_mobile>true</tve_mobile>
+    <tve_internet>true</tve_internet>
+    <vod_catchup>false</vod_catchup>
+    <start_over>true</start_over>
+    <npvr>false</npvr>
+    <production_year></production_year>
+    <credits />
+    <category>Music - Rock &amp; Pop</category>
+    <length units="seconds">9600</length>
+    <production-country />
+    <audio_list />
+    <identifier>15960395508527</identifier>
+    <video>
+      <aspect>4:3</aspect>
+      <quality>SD</quality>
+    </video>
+    <subtitles />
+    <audio_described>false</audio_described>
+    <invision_signing>false</invision_signing>
+  </programme>
+  <programme is_live="false" start="20240511014146 +0200" air_time_start="20240511014000 +0200" air_time_end="20240511040000 +0200" stop="20240511035931 +0200" start_utc="20240510234146 +0000" stop_utc="20240511015931 +0000" air_time_start_utc="20240510234000 +0000" air_time_end_utc="20240511020000 +0000" channel="MTV 00s">
+    <title lang="en">Get The Party Started!</title>
+    <sub-title lang="en"></sub-title>
+    <original-title>Get The Party Started! </original-title>
+    <original-episode-title />
+    <desc_short lang="en">Whether you're heading out or staying in, get the party started with us here and we'll promise you the perfect soundtrack filled with the best party anthems around!</desc_short>
+    <keywords />
+    <dvb_event_id>17917330796668</dvb_event_id>
+    <dvbsi_genre level1="0x6" level2="0x1" />
+    <ott_mobile>true</ott_mobile>
+    <ott_internet>true</ott_internet>
+    <tve_mobile>true</tve_mobile>
+    <tve_internet>true</tve_internet>
+    <vod_catchup>false</vod_catchup>
+    <start_over>true</start_over>
+    <npvr>false</npvr>
+    <production_year></production_year>
+    <credits />
+    <category>Music - Rock &amp; Pop</category>
+    <length units="seconds">8400</length>
+    <production-country />
+    <audio_list />
+    <identifier>2725070606527</identifier>
+    <video>
+      <aspect>4:3</aspect>
+      <quality>SD</quality>
+    </video>
+    <subtitles />
+    <audio_described>false</audio_described>
+    <invision_signing>false</invision_signing>
+  </programme>
+  <programme is_live="false" start="20240511035931 +0200" air_time_start="20240511040000 +0200" air_time_end="20240511045900 +0200" stop="20240511045958 +0200" start_utc="20240511015931 +0000" stop_utc="20240511025958 +0000" air_time_start_utc="20240511020000 +0000" air_time_end_utc="20240511025900 +0000" channel="MTV 00s">
+    <title lang="en">Supermassive Rock Anthems!</title>
+    <sub-title lang="en"></sub-title>
+    <original-title>Supermassive Rock Anthems!</original-title>
+    <original-episode-title />
+    <desc_short lang="en">Here at MTV we love nothing more than a hair-raising, ground-shaking, window-breaking rock anthems... and the bigger, the better! So here they are and they're supermassive!</desc_short>
+    <keywords />
+    <dvb_event_id>17917331444668</dvb_event_id>
+    <dvbsi_genre level1="0x6" level2="0x1" />
+    <ott_mobile>true</ott_mobile>
+    <ott_internet>true</ott_internet>
+    <tve_mobile>true</tve_mobile>
+    <tve_internet>true</tve_internet>
+    <vod_catchup>false</vod_catchup>
+    <start_over>true</start_over>
+    <npvr>false</npvr>
+    <production_year></production_year>
+    <credits />
+    <category>Music - Rock &amp; Pop</category>
+    <length units="seconds">3600</length>
+    <production-country />
+    <audio_list />
+    <identifier>15360071598527</identifier>
+    <video>
+      <aspect>4:3</aspect>
+      <quality>SD</quality>
+    </video>
+    <subtitles />
+    <audio_described>false</audio_described>
+    <invision_signing>false</invision_signing>
+  </programme>
+</tv>
